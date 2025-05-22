@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔍 Scanner Suite
 
 Scanner automatizado com as principais ferramentas de varredura e pentest.
@@ -40,3 +41,7 @@ Todos os relatórios serão salvos na pasta `output/`.
 ## ⚠️ Aviso Legal
 
 Use este script apenas em alvos autorizados. Pentest sem permissão é crime.
+=======
+# VulnScannerSuite
+ReconForce is an all-in-one automated security scanner combining top tools like nmap, sqlmap, nuclei, and more. It performs subdomain enumeration, port scanning, directory fuzzing, and vulnerability detection, organizing results neatly. Use only on authorized targets for ethical security testing.
+>>>>>>> 379d53856a0f87e4e01038643afde2634c15abf4
